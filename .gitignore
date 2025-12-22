@@ -1,0 +1,19 @@
+# Ignore servers and tools
+apache-tomcat-*/
+tomcat/
+servers/
+*.jar
+
+# Eclipse
+.metadata/
+.settings/
+.classpath
+.project
+
+# Build folders
+bin/
+target/
+
+# OS files
+.DS_Store
+Thumbs.db
